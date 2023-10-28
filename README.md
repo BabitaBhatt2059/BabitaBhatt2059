@@ -1,9 +1,7 @@
 ### Hi there 👋 it's me Babita😊.
 
 <p>
-*BabitaBhatt2059/BabitaBhatt2059* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Myself.
 - 🌱 I’m currently learning Js.
