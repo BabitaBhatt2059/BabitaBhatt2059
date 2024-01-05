@@ -11,7 +11,7 @@
 - 📫 How to reach me:babitabhatt37@gmail.com
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact:i love dancing.
---</p><h3 align="center">A passionate frontend developer from Nepal.</h3>
+--</p><h3 align="center">A passionate frontend developer and Graphics designer from Nepal.</h3>
 
 <h3 align="left"></h3>
 <p align="left">
